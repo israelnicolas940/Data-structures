@@ -76,8 +76,7 @@ int main(){
     push_after_node(list->prox,list3); 
     print_list(list); 
     int a = pop_head(30,&list); 
-    
     print_list(list); 
-
+    dealloc(list); 
     return 0; 
 }
