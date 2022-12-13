@@ -3,12 +3,19 @@ Data structures have a wide and diverse scope of usage across the fields of Comp
 That said, there are 8 commonly used data structures every programmer must know. 
 
 1 >> Arrays 
+
 2 >> Linked lists 
+
 3 >> Stacks
+
 4 >> Queues 
+
 5 >> Hash tables 
+
 6 >> Trees
+
 7 >> Heaps 
+
 8 >> Graphs
 
 Source: https://towardsdatascience.com/8-common-data-structures-every-programmer-must-know-171acf6a1a42 
